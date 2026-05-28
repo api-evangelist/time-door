@@ -1,0 +1,32 @@
+aid: time-door
+name: Time Door
+description: "A time series analysis API"
+url: https://timedoor.io
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: Time Door
+    description: "A time series analysis API"
+    humanURL: https://timedoor.io
+    baseURL: https://timedoor.io
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://timedoor.io
+common:
+  - type: Website
+    url: https://timedoor.io
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
