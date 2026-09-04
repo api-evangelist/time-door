@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://timedoor.io', status: 302, note: 'declared website redirects to https://arcade.now/lp1/play?subid=timedoor.io&subid2=US&subid3=en&click_id=1f598f6e-022c-4cea-aa07-cbbbbfe47505 — a different registrable domain (timedoor.io -> arcade.now), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/time-door.png
 name: Time Door
 description: "A time series analysis API"
